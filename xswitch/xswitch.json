@@ -1,0 +1,9 @@
+{
+  "apps": {
+    "codex":     { "enabled": true, "path": null },
+    "qoder":     { "enabled": true, "path": null },
+    "workbuddy": { "enabled": true, "path": null }
+  },
+  "demo_fallback": true,
+  "server": { "host": "127.0.0.1", "port": 8787 }
+}
